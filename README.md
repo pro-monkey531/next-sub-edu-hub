@@ -1,2 +1,2 @@
 SUB-EDU_HUB
-This is Sub Education
+This is Sub Education Project

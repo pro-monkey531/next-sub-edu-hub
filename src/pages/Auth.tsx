@@ -17,6 +17,8 @@ const Auth = () => {
   const navigate = useNavigate();
   const { toast } = useToast();
 
+  // Handle Auth
+
   const handleAuth = async (e: React.FormEvent) => {
     e.preventDefault();
     setLoading(true);
