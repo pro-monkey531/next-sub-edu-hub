@@ -42,6 +42,7 @@ const Index = () => {
       ],
       popular: false
     },
+    
     {
       name: "プレミアム",
       price: "¥29,900",
